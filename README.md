@@ -6,7 +6,7 @@ of the text provided as input
 
 For example: 
 
-Input -> "There is no homee"
-Ouput -<> "There is no home"
+ Input -> "There is no homee"
+ Ouput -> "There is no home"
 
 
